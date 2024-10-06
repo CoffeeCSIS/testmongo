@@ -1,0 +1,7 @@
+{
+  "name": "vercel-api",
+  "version": "1.0.0",
+  "main": "api/testapi.js",
+  "license": "MIT",
+  "dependencies": {}
+}
