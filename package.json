@@ -4,6 +4,7 @@
   "main": "api/testapi.js",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^4.11.0"
+    "mongodb": "^4.11.0",
+    "dotenv": "^10.0.0"
   }
 }
