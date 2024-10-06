@@ -1,5 +1,6 @@
 // /api/testapi.js
 
+require('dotenv').config(); // Load environment variables from .env
 const { MongoClient } = require('mongodb');
 
 const uri = process.env.MONGODB_URI; // Ensure this is set in Vercel Environment Variables
